@@ -1,7 +1,9 @@
 # 小黄油汉化资料、推荐都在哪里找的？ 游戏性好的实用黄油推荐
 
 网站资源库在线下载地址: https://www.ntrku.com
+
 网站资源库在线下载地址: https://www.ntrku.com 
+
 网站资源库在线下载地址: https://www.ntrku.com 
 
 Kagura Games, Shiravune, Denpasoft, Mangagamer, JAST USA 等： 这些是知名的本地化发行商，他们选择代理的游戏通常经过一定筛选，质量相对有保障，并且提供官方中文版。关注他们的官网、社交媒体（如 Twitter）或合作的销售平台（如 Steam, Johren, DLsite 国际站/中文站， Denpasoft Store）。
